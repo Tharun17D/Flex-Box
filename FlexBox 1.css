@@ -1,0 +1,69 @@
+body{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+   
+}
+.Box{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.box1{
+    margin-top: 30px;
+    background-color: whitesmoke;
+    text-align: center;
+    width: 25vw;
+    height: 30vw;
+    border-radius: 5%;
+}
+#para1{
+    color: rgb(155, 155, 58);
+}
+#para3{
+    background-color: pink;
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: 0px;
+    padding-top: 10px;
+    width: 21vw;
+    height: 30px;
+    text-align: center;
+}
+.box2{
+    background-image: linear-gradient(yellow, green, black);
+    margin-top: 10px;
+    width: 25vw;
+    height: 31.4vw;
+    text-align: center;
+    border-radius: 5%;
+}
+.box3{
+    background-image: linear-gradient(red, yellow, purple, green, rgb(79, 119, 248));
+    margin-top: 25px;
+    width: 25vw;
+    height: 30vw;
+    text-align: center;
+    border-radius: 5%;
+}
+#D{
+    color: blue;
+    display: inline;
+}
+#A{
+    font-weight: bold;
+    font-size: xx-large;
+    display: inline;
+    color: blue;
+}
+#G{
+    color: blue;
+    text-decoration: underline;
+}
+.button{
+    background-color:red;
+    width: 150px;
+   height: 30px;
+}
